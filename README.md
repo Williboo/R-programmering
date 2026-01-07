@@ -3,6 +3,7 @@
 Detta projekt använder statistisk modellering i R för att förstå och förutsäga prissättningen på begagnade bilar. Genom en multipel linjär regressionsanalys har vi identifierat hur miltal, årsmodell och hästkrafter påverkar marknadsvärdet
 
 Innehåll:
+
 Projektmapp R (R-skript): Innehåller källkoden i R
 
 Rapport_R.pdf: Den fullständiga tekniska rapporten som beskriver teori, metod, resultat och statistisk bevisföring.
