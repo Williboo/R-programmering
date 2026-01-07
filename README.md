@@ -6,7 +6,6 @@ Innehåll:
 
 Projektmapp R (R-skript): Innehåller källkoden i R
 
-Rapport_R.pdf: Den fullständiga tekniska rapporten som beskriver teori, metod, resultat och statistisk bevisföring.
-
 Executive_Summary.pdf: En kortfattad och resultatfokuserad sammanfattning anpassad för ledningsgrupper och beslutsfattare.
 
+Rapport_R.pdf: Den fullständiga tekniska rapporten som beskriver teori, metod, resultat och statistisk bevisföring.
